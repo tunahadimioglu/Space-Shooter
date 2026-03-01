@@ -37,5 +37,9 @@ The game is a classic arcade-style space shooter where the player controls a sta
 
 ---
 
+### 🕹️ Play It Now
+You can try out the latest build of the game directly in your browser or download it here:
+👉 **[Play on itch.io](https://tuggy07.itch.io/space-shooter)**
+
 ### ✨ What’s Next?
 Having mastered these basics (Coroutines, UI Management, Physics, and Input), I am now moving on to more complex projects involving advanced AI, procedural generation, and more intricate game design patterns.
